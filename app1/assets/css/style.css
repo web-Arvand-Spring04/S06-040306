@@ -1,0 +1,26 @@
+@charset "UTF-8";
+@import url("https://v1.fontapi.ir/css/Estedad");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  direction: rtl;
+  font-family: estedad;
+}
+
+table {
+  border-collapse: collapse;
+}
+table tr td {
+  padding: 15px;
+  border: 1px solid;
+}
+
+table tr:nth-child(odd) {
+  background-color: #b4afaf;
+}
+
+:root{
+  
+}
